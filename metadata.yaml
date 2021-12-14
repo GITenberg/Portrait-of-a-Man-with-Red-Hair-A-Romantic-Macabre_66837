@@ -1,0 +1,29 @@
+_repo: Portrait-of-a-Man-with-Red-Hair-A-Romantic-Macabre_66837
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walpole, Hugh
+    alias: Walpole, Sir Hugh
+    birthdate: 1884
+    deathdate: 1941
+    gutenberg_agent_id: '1207'
+    url: http://www.gutenberg.org/2009/agents/1207
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Walpole
+description: ''
+gutenberg_issued: '2021-11-28'
+identifiers:
+  gutenberg: '66837'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/002965881
+pgterms:marc905: 20210709054956walpole
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Dagny and Laura Natal Rodrigues
+publication_note: United States :George H. Doran company,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Portrait of a Man with Red Hair: A Romantic Macabre'
+url: http://www.gutenberg.org/ebooks/66837
