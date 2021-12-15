@@ -1,5 +1,8 @@
 _repo: Portrait-of-a-Man-with-Red-Hair-A-Romantic-Macabre_66837
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66837-h/images/red_cover.jpg
 creator:
   author:
     agent_name: Walpole, Hugh
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1207
     wikipedia: https://en.wikipedia.org/wiki/Hugh_Walpole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66837#Portrait-of-a-Man-with-Red-Hair-A-Romantic-Macabre
 gutenberg_issued: '2021-11-28'
 identifiers:
   gutenberg: '66837'
